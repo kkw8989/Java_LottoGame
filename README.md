@@ -27,7 +27,9 @@
  <br></br>
  
  **2. 자동 구매**  
- - 로또 자동 구매 
+ - 로또 자동 구매
+ - 구매할 로또 금액만큼 랜덤 당첨 번호 출력
+ - 사용자 로또 번호와 당첨 번호 비교 후 등수 출력
   
  <img src="https://github.com/user-attachments/assets/c33b7f94-8e49-45f2-a48e-d423c03a43a8" wwidth="25%" height="25%"/>
  <br></br>
