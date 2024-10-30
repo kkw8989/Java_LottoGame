@@ -1,6 +1,6 @@
-<div align="center">
+
  <h1>로또 게임</h1>
-</div>
+
 
 ### ⚒️ 기술 스택
 - JAVA
