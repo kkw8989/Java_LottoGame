@@ -23,7 +23,7 @@
  **1. 메인 화면**  
  로또 게임 
 
- <img src="https://github.com/user-attachments/assets/bde89a74-6c16-49fe-8991-f02c268913dc" width="75%" height="75%"/>
+ <img src="https://github.com/user-attachments/assets/bde89a74-6c16-49fe-8991-f02c268913dc" width="100%" height="100%"/>
  <br></br>
  
  **2. 자동 구매**  
