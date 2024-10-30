@@ -44,6 +44,6 @@
 
 **- uml**
 
-<img src="https://github.com/user-attachments/assets/4ffa533a-f7ca-419a-b5ad-20dbb224f08e" width="50%" height="50%"/> 
+<img src="https://github.com/user-attachments/assets/4ffa533a-f7ca-419a-b5ad-20dbb224f08e" width="70%" height="50%"/> 
  <br></br>
 
