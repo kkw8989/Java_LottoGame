@@ -32,7 +32,6 @@
  <img src="https://github.com/user-attachments/assets/c33b7f94-8e49-45f2-a48e-d423c03a43a8" wwidth="50%" height="50%"/>
  <br></br>
  
- <br></br>
 
  **3. 수동 구매**  
 로또 수동 구매
