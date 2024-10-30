@@ -21,20 +21,20 @@
 
 
  **1. 메인 화면**  
- 로또 게임 
+ -로또 게임 
 
  <img src="https://github.com/user-attachments/assets/bde89a74-6c16-49fe-8991-f02c268913dc" width="100%" height="100%"/>
  <br></br>
  
  **2. 자동 구매**  
- 로또 자동 구매 
+ -로또 자동 구매 
   
  <img src="https://github.com/user-attachments/assets/c33b7f94-8e49-45f2-a48e-d423c03a43a8" wwidth="25%" height="25%"/>
  <br></br>
  
 
  **3. 수동 구매**  
-로또 수동 구매
+-로또 수동 구매
 
 <img src="https://github.com/user-attachments/assets/a5f2305f-ba77-4434-86f3-e944e9612bdf" width="48%" height="50%"/>
 <img src="https://github.com/user-attachments/assets/4fc639b2-7691-499a-bff9-d0eb132f4ee9" width="48%" height="50%"/>
