@@ -3,7 +3,7 @@
 </div>
 
 ### ⚒️ 기술 스택
-- jAVA
+- JAVA
 
 ### 💡 주요 기능 
 
@@ -23,7 +23,7 @@
  **1. 메인 화면**  
  로또 게임 
 
- <img src="https://github.com/user-attachments/assets/bde89a74-6c16-49fe-8991-f02c268913dc" width="50%" height="50%"/>
+ <img src="https://github.com/user-attachments/assets/bde89a74-6c16-49fe-8991-f02c268913dc" width="75%" height="75%"/>
  <br></br>
  
  **2. 자동 구매**  
@@ -43,6 +43,6 @@
 
 **- uml**
 
-<img src="https://github.com/user-attachments/assets/4ffa533a-f7ca-419a-b5ad-20dbb224f08e" width="70%" height="50%"/> 
+<img src="https://github.com/user-attachments/assets/4ffa533a-f7ca-419a-b5ad-20dbb224f08e" width="90%" height="90%"/> 
  <br></br>
 
