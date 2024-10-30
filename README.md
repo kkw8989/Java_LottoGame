@@ -39,12 +39,12 @@
 - 로또 수동 구매
 - 구매할 로또 금액만큼 수동 번호 추가 입력 요구
 - 수동 번호 6개 중 일부 작성 시 자동으로 랜덤 번호 지정
-<img src="https://github.com/user-attachments/assets/a5f2305f-ba77-4434-86f3-e944e9612bdf" width="48%" height="50%"/>
-<img src="https://github.com/user-attachments/assets/4fc639b2-7691-499a-bff9-d0eb132f4ee9" width="48%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/a5f2305f-ba77-4434-86f3-e944e9612bdf" width="49%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/4fc639b2-7691-499a-bff9-d0eb132f4ee9" width="49%" height="50%"/>
 <br></br>
 
-<img src="https://github.com/user-attachments/assets/94346895-1c5d-410b-84cc-fee4c5f79bdc" width="48%" height="50%"/>
-<img src="https://github.com/user-attachments/assets/17512c77-85bd-4adb-bc09-cfd730f82f22" width="48%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/94346895-1c5d-410b-84cc-fee4c5f79bdc" width="49%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/17512c77-85bd-4adb-bc09-cfd730f82f22" width="49%" height="50%"/>
 
 <br></br>
 
