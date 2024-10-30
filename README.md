@@ -29,7 +29,7 @@
  **2. 자동 구매**  
  로또 자동 구매 
   
- <img src="https://github.com/user-attachments/assets/c33b7f94-8e49-45f2-a48e-d423c03a43a8" wwidth="50%" height="50%"/>
+ <img src="https://github.com/user-attachments/assets/c33b7f94-8e49-45f2-a48e-d423c03a43a8" wwidth="25%" height="25%"/>
  <br></br>
  
 
