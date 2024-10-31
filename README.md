@@ -19,6 +19,13 @@
 </div>
 </details>
 
+### 📍 설계
+
+**- UML**
+
+<img src="https://github.com/user-attachments/assets/6a9f136b-2020-4a9f-8698-467e10e85682" width="100%" height="100%"/> 
+ <br></br>
+
 
  **1. 메인 화면**  
  - 로또 게임 
@@ -45,13 +52,4 @@
 
 <img src="https://github.com/user-attachments/assets/94346895-1c5d-410b-84cc-fee4c5f79bdc" width="49%" height="50%"/>
 <img src="https://github.com/user-attachments/assets/17512c77-85bd-4adb-bc09-cfd730f82f22" width="49%" height="50%"/>
-
-<br></br>
-
-### 📍 설계
-
-**- UML**
-
-<img src="https://github.com/user-attachments/assets/4ffa533a-f7ca-419a-b5ad-20dbb224f08e" width="100%" height="100%"/> 
- <br></br>
 
