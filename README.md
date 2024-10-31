@@ -23,7 +23,7 @@
 
 **- UML**
 
-<img src="https://github.com/user-attachments/assets/6a9f136b-2020-4a9f-8698-467e10e85682" width="100%" height="100%"/> 
+<img src="https://github.com/user-attachments/assets/d7e7969d-1211-4e63-99b1-7656c1c86285" width="100%" height="100%"/> 
  <br></br>
 
 
